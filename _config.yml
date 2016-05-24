@@ -1,28 +1,40 @@
-name: francesca
 favicon: null
-layout_spectrum: 0.28676842944696546
-typography_spectrum: 0.35379030578769743
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: francesca
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2281217898707837
+  brandStrength: 0.9176954322028905
+  rhythmicContrast: 0.01721802749671042
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9176954322028905
-  lightness: 0.12180384900420904
-  saturation: 0.2281217898707837
-  rhythmicContrast: 0.01721802749671042
-purpose: []
+  lightness: 0.121803849004209
+typography_spectrum: 0.5286738
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2867684294469655
+analytics:
+  twitter: null
+  google: null
+  facebook: null

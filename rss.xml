@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[francesca]]></title>
         <description><![CDATA[francesca]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/francesca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 21:44:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 21:54:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/francesca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Founding member #44265]]></title>
             <description><![CDATA[<article><h1>Founding member #44265</h1><p>Still need to figure out a few things, but so far it looks pretty amazing. Cool job, guys!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6566b6de-2ee7-471b-9d09-3a55e4b13072.jpg"></article>]]></description>
-            <link>undefinedfounding-member-44265/index.html</link>
+            <link>https://thegrid.ai/francesca/founding-member-44265/index.html</link>
             <guid isPermaLink="false">0d923a40-9b13-4ee6-afa9-be3d621d8fb6</guid>
             <pubDate>Tue, 24 May 2016 21:44:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What he did.]]></title>
+            <description><![CDATA[<article><h1>What he did.</h1><p>@mpaola questo libro potrebbe venirti utile: The crossroads of should and must :) #choosemustpic.twitter.com/niHoRKXn7V</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0a3934cad055e675b3ac1dfd76f87d5df145528.jpg"></article>]]></description>
+            <link>https://twitter.com/dentedileone/status/687304474864578560</link>
+            <guid isPermaLink="false">60205380-1d63-4428-a8fa-a423e8dc46f2</guid>
+            <pubDate>Tue, 24 May 2016 21:53:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

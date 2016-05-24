@@ -1,4 +1,4 @@
-layout_spectrum: 0.2867684294469655
+name: francesca
 opengraph:
   image: null
   type: null
@@ -9,24 +9,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.6200717
-  brandStrength: 0.9176954322028905
-  lightness: 0.7060932
+  saturation: 0.374552
+  brandStrength: 0.3154122
+  lightness: 0.5376344
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.1827957
+  rhythmicContrast: 0.5967742
 typography_spectrum: 0.5286738
 cta:
   bucket: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: francesca
+layout_spectrum: 0.2867684294469655

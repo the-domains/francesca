@@ -1,4 +1,8 @@
-name: francesca
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -17,7 +21,7 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.374552
+  saturation: 0.5412186
   brandStrength: 0.3154122
   lightness: 0.5376344
   brandColors:
@@ -26,15 +30,11 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.5967742
+  rhythmicContrast: 0.5591398
 typography_spectrum: 0.5286738
+layout_spectrum: 0.2867684294469655
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0.2867684294469655
+name: francesca

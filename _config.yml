@@ -22,19 +22,19 @@ color:
     - '#FED430'
     - '#FF4D6C'
   lightness: 0.8225806
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
 favicon: null
 name: francesca
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.07168459
-layout_spectrum: 0.08602151
+layout_spectrum: 0.2688172
